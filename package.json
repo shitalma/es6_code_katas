@@ -1,0 +1,25 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "This repo will contain test cases solution for es6 code katas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shitalma/es6_code_katas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shitalma/es6_code_katas/issues"
+  },
+  "homepage": "https://github.com/shitalma/es6_code_katas#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
